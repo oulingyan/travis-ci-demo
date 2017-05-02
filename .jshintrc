@@ -91,10 +91,14 @@
     // Custom Globals
     "globals"       : {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "require": true,
       "test": true
 =======
       "require": true
 >>>>>>> demo01
+=======
+      "require": true
+>>>>>>> demo02
     }        // additional predefined global variables
 }

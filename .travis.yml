@@ -4,7 +4,11 @@ sudo: false
 language: node_js
 node_js:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - "node"
 =======
   - "4.1"
 >>>>>>> demo01
+=======
+  - "node"
+>>>>>>> demo02
