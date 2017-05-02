@@ -1,15 +1,9 @@
 'use strict';
 
 function hello(){
-<<<<<<< HEAD
-<<<<<<< HEAD
-  console.log('Hello World');
-=======
-  return 'Hello World';
->>>>>>> demo02
-=======
+  console.log('Hello node');
   return 'Hello node';
->>>>>>> demo02
+
 }
 
 module.exports = hello;
